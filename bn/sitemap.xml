@@ -3,44 +3,44 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://amitpress.github.io/</loc>
+    <loc>https://amitpress.github.io/recallbook/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://amitpress.github.io/en/"
+                href="https://amitpress.github.io/recallbook/en/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="bn"
-                href="https://amitpress.github.io/"
+                href="https://amitpress.github.io/recallbook/"
                 />
   </url>
   
   <url>
-    <loc>https://amitpress.github.io/categories/</loc>
+    <loc>https://amitpress.github.io/recallbook/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://amitpress.github.io/en/categories/"
+                href="https://amitpress.github.io/recallbook/en/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="bn"
-                href="https://amitpress.github.io/categories/"
+                href="https://amitpress.github.io/recallbook/categories/"
                 />
   </url>
   
   <url>
-    <loc>https://amitpress.github.io/tags/</loc>
+    <loc>https://amitpress.github.io/recallbook/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://amitpress.github.io/en/tags/"
+                href="https://amitpress.github.io/recallbook/en/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="bn"
-                href="https://amitpress.github.io/tags/"
+                href="https://amitpress.github.io/recallbook/tags/"
                 />
   </url>
   
