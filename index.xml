@@ -1,20 +1,10 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Edit the title here on Amit&#39;s Recallbook</title>
-    <link>/</link>
-    <description>Recent content in Edit the title here on Amit&#39;s Recallbook</description>
+    <title>Amit&#39;s Recallbook</title>
+    <link>https://amitpress.github.io/</link>
+    <description>Recent content on Amit&#39;s Recallbook</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Tue, 19 Oct 2021 00:07:47 -0400</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Demopost</title>
-      <link>/posts/demopost/</link>
-      <pubDate>Tue, 19 Oct 2021 00:07:47 -0400</pubDate>
-      
-      <guid>/posts/demopost/</guid>
-      <description>This is just a demopost to test the website</description>
-    </item>
-    
+    <language>en-us</language><atom:link href="https://amitpress.github.io/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
