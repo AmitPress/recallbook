@@ -5,16 +5,6 @@
     <link>https://amitpress.github.io/recallbook/categories/</link>
     <description>Recent content in Categories on Amit&#39;s Recallbook</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Wed, 02 Apr 2014 00:00:00 +0000</lastBuildDate><atom:link href="https://amitpress.github.io/recallbook/categories/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Develop</title>
-      <link>https://amitpress.github.io/recallbook/categories/develop/</link>
-      <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
-      
-      <guid>https://amitpress.github.io/recallbook/categories/develop/</guid>
-      <description></description>
-    </item>
-    
+    <language>en-us</language><atom:link href="https://amitpress.github.io/recallbook/categories/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

@@ -5,52 +5,6 @@
     <link>https://amitpress.github.io/recallbook/tags/</link>
     <description>Recent content in Tags on Amit&#39;s Recallbook</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Wed, 02 Apr 2014 00:00:00 +0000</lastBuildDate><atom:link href="https://amitpress.github.io/recallbook/tags/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>development</title>
-      <link>https://amitpress.github.io/recallbook/tags/development/</link>
-      <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
-      
-      <guid>https://amitpress.github.io/recallbook/tags/development/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>go</title>
-      <link>https://amitpress.github.io/recallbook/tags/go/</link>
-      <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
-      
-      <guid>https://amitpress.github.io/recallbook/tags/go/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>golang</title>
-      <link>https://amitpress.github.io/recallbook/tags/golang/</link>
-      <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
-      
-      <guid>https://amitpress.github.io/recallbook/tags/golang/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>templates</title>
-      <link>https://amitpress.github.io/recallbook/tags/templates/</link>
-      <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
-      
-      <guid>https://amitpress.github.io/recallbook/tags/templates/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>themes</title>
-      <link>https://amitpress.github.io/recallbook/tags/themes/</link>
-      <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
-      
-      <guid>https://amitpress.github.io/recallbook/tags/themes/</guid>
-      <description></description>
-    </item>
-    
+    <language>en-us</language><atom:link href="https://amitpress.github.io/recallbook/tags/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
