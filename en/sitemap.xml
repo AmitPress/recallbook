@@ -3,87 +3,87 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://amitpress.github.io/posts/demopost/</loc>
+    <loc>https://amitpress.github.io/recallbook/posts/demopost/</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://amitpress.github.io/</loc>
-    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="bn"
-                href="https://amitpress.github.io/bn/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://amitpress.github.io/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://amitpress.github.io/categories/</loc>
+    <loc>https://amitpress.github.io/recallbook/</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="bn"
-                href="https://amitpress.github.io/bn/categories/"
+                href="https://amitpress.github.io/recallbook/bn/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://amitpress.github.io/categories/"
+                href="https://amitpress.github.io/recallbook/"
                 />
   </url>
   
   <url>
-    <loc>https://amitpress.github.io/categories/develop/</loc>
-    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://amitpress.github.io/tags/development/</loc>
-    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://amitpress.github.io/tags/go/</loc>
-    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://amitpress.github.io/tags/golang/</loc>
-    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://amitpress.github.io/posts/</loc>
-    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://amitpress.github.io/tags/</loc>
+    <loc>https://amitpress.github.io/recallbook/categories/</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="bn"
-                href="https://amitpress.github.io/bn/tags/"
+                href="https://amitpress.github.io/recallbook/bn/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://amitpress.github.io/tags/"
+                href="https://amitpress.github.io/recallbook/categories/"
                 />
   </url>
   
   <url>
-    <loc>https://amitpress.github.io/tags/templates/</loc>
+    <loc>https://amitpress.github.io/recallbook/categories/develop/</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://amitpress.github.io/tags/themes/</loc>
+    <loc>https://amitpress.github.io/recallbook/tags/development/</loc>
+    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://amitpress.github.io/recallbook/tags/go/</loc>
+    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://amitpress.github.io/recallbook/tags/golang/</loc>
+    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://amitpress.github.io/recallbook/posts/</loc>
+    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://amitpress.github.io/recallbook/tags/</loc>
+    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="bn"
+                href="https://amitpress.github.io/recallbook/bn/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://amitpress.github.io/recallbook/tags/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://amitpress.github.io/recallbook/tags/templates/</loc>
+    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://amitpress.github.io/recallbook/tags/themes/</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
   </url>
   

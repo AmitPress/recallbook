@@ -3,44 +3,44 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://amitpress.github.io/bn/</loc>
+    <loc>https://amitpress.github.io/recallbook/bn/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://amitpress.github.io/"
+                href="https://amitpress.github.io/recallbook/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="bn"
-                href="https://amitpress.github.io/bn/"
+                href="https://amitpress.github.io/recallbook/bn/"
                 />
   </url>
   
   <url>
-    <loc>https://amitpress.github.io/bn/categories/</loc>
+    <loc>https://amitpress.github.io/recallbook/bn/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://amitpress.github.io/categories/"
+                href="https://amitpress.github.io/recallbook/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="bn"
-                href="https://amitpress.github.io/bn/categories/"
+                href="https://amitpress.github.io/recallbook/bn/categories/"
                 />
   </url>
   
   <url>
-    <loc>https://amitpress.github.io/bn/tags/</loc>
+    <loc>https://amitpress.github.io/recallbook/bn/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://amitpress.github.io/tags/"
+                href="https://amitpress.github.io/recallbook/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="bn"
-                href="https://amitpress.github.io/bn/tags/"
+                href="https://amitpress.github.io/recallbook/bn/tags/"
                 />
   </url>
   
