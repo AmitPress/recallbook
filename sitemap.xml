@@ -1,16 +1,60 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
-  <sitemap>
-    <loc>https://amitpress.github.io/recallbook/en/sitemap.xml</loc>
-    
-      <lastmod>2014-04-02T00:00:00+00:00</lastmod>
-    
-  </sitemap>
+  <url>
+    <loc>https://amitpress.github.io/recallbook/posts/demopost/</loc>
+    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
+  </url>
   
-  <sitemap>
-    <loc>https://amitpress.github.io/recallbook/bn/sitemap.xml</loc>
-    
-  </sitemap>
+  <url>
+    <loc>https://amitpress.github.io/recallbook/</loc>
+    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
+  </url>
   
-</sitemapindex>
+  <url>
+    <loc>https://amitpress.github.io/recallbook/categories/</loc>
+    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://amitpress.github.io/recallbook/categories/develop/</loc>
+    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://amitpress.github.io/recallbook/tags/development/</loc>
+    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://amitpress.github.io/recallbook/tags/go/</loc>
+    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://amitpress.github.io/recallbook/tags/golang/</loc>
+    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://amitpress.github.io/recallbook/posts/</loc>
+    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://amitpress.github.io/recallbook/tags/</loc>
+    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://amitpress.github.io/recallbook/tags/templates/</loc>
+    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://amitpress.github.io/recallbook/tags/themes/</loc>
+    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
+  </url>
+  
+</urlset>
