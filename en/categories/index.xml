@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Amit&#39;s Recallbook</title>
-    <link>https://amitpress.github.io/recallbook/en/categories/</link>
+    <link>/recallbook/en/categories/</link>
     <description>Recent content in Categories on Amit&#39;s Recallbook</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 02 Apr 2014 00:00:00 +0000</lastBuildDate><atom:link href="https://amitpress.github.io/recallbook/en/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 02 Apr 2014 00:00:00 +0000</lastBuildDate><atom:link href="/recallbook/en/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Develop</title>
-      <link>https://amitpress.github.io/recallbook/en/categories/develop/</link>
+      <link>/recallbook/en/categories/develop/</link>
       <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
       
-      <guid>https://amitpress.github.io/recallbook/en/categories/develop/</guid>
+      <guid>/recallbook/en/categories/develop/</guid>
       <description></description>
     </item>
     
