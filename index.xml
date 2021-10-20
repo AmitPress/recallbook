@@ -6,7 +6,17 @@
     <description>Recent content on Amit&#39;s Recallbook</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 19 Oct 2021 04:32:11 -0400</lastBuildDate><atom:link href="https://amitpress.github.io/recallbook/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 20 Oct 2021 04:17:11 -0400</lastBuildDate><atom:link href="https://amitpress.github.io/recallbook/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Decade of Web Frameworks</title>
+      <link>https://amitpress.github.io/recallbook/posts/decadeofwebframeworks/</link>
+      <pubDate>Wed, 20 Oct 2021 04:17:11 -0400</pubDate>
+      
+      <guid>https://amitpress.github.io/recallbook/posts/decadeofwebframeworks/</guid>
+      <description>Utility of different web frameworks. In a decade web development has evolved like no other industries. So has the web technologies have evolved and been evolving as time flows. Creative minds, web dev pioneers and engineers are constantly working to have an unbloated, efficient, modern and tireless.
+In early years of this decade, I mean in around 2010 to 2013, Ruby Lang became a hot cake. Many developers were turning towards ruby in large scale.</description>
+    </item>
+    
     <item>
       <title>Helloworld</title>
       <link>https://amitpress.github.io/recallbook/posts/helloworld/</link>
@@ -14,6 +24,15 @@
       
       <guid>https://amitpress.github.io/recallbook/posts/helloworld/</guid>
       <description>def hello_world(): print(&amp;#34;hell_world&amp;#34;) </description>
+    </item>
+    
+    <item>
+      <title>My Journey from NAND to tetris</title>
+      <link>https://amitpress.github.io/recallbook/posts/nand2tetris/</link>
+      <pubDate>Tue, 19 Oct 2021 04:32:11 -0400</pubDate>
+      
+      <guid>https://amitpress.github.io/recallbook/posts/nand2tetris/</guid>
+      <description></description>
     </item>
     
   </channel>
