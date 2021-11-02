@@ -23,7 +23,7 @@ In early years of this decade, I mean in around 2010 to 2013, Ruby Lang became a
       <pubDate>Tue, 19 Oct 2021 04:32:11 -0400</pubDate>
       
       <guid>https://amitpress.github.io/recallbook/posts/helloworld/</guid>
-      <description>def hello_world(): print(&amp;#34;hell_world&amp;#34;) </description>
+      <description>def hello_world(): print(&amp;#34;hell_world&amp;#34;) hello_world() </description>
     </item>
     
     <item>
