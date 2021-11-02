@@ -6,7 +6,19 @@
     <description>Recent content in Posts on Amit&#39;s Recallbook</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 20 Oct 2021 04:17:11 -0400</lastBuildDate><atom:link href="https://amitpress.github.io/recallbook/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 02 Nov 2021 09:47:32 -0400</lastBuildDate><atom:link href="https://amitpress.github.io/recallbook/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Impvsdec</title>
+      <link>https://amitpress.github.io/recallbook/posts/impvsdec/</link>
+      <pubDate>Tue, 02 Nov 2021 09:47:32 -0400</pubDate>
+      
+      <guid>https://amitpress.github.io/recallbook/posts/impvsdec/</guid>
+      <description>Imperative vs Declarative It is basically two different thought process. I felt like imperative style is more stangnant than declarative style. I know the choice is totally subjective and opinionated, though I feel declarative code is more elegant and understanable than imperative code.
+For example,
+class Person(): self.name = &amp;#39;&amp;#39; def name(self, name): self.name = name Now here, we will see the distinctive approaches of declarative and imperative coding.
+For Declarative style we will do</description>
+    </item>
+    
     <item>
       <title>Decade of Web Frameworks</title>
       <link>https://amitpress.github.io/recallbook/posts/decadeofwebframeworks/</link>
