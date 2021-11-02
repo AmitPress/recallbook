@@ -6,7 +6,18 @@
     <description>Recent content on Amit&#39;s Recallbook</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 02 Nov 2021 09:57:50 -0400</lastBuildDate><atom:link href="https://amitpress.github.io/recallbook/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 02 Nov 2021 10:12:34 -0400</lastBuildDate><atom:link href="https://amitpress.github.io/recallbook/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Abstractions</title>
+      <link>https://amitpress.github.io/recallbook/posts/abstractions/</link>
+      <pubDate>Tue, 02 Nov 2021 10:12:34 -0400</pubDate>
+      
+      <guid>https://amitpress.github.io/recallbook/posts/abstractions/</guid>
+      <description>Why we want everything simplified? Abstraction is evil. But we need it. When we put wrappers around an actual work process and think the whole workprocess holistically as a black box what we do is we make abstractions.
+When we run Python code, we also run assembly. But that is abstracted.
+First Levels (low to high): i) Machine Code ii) Hexadecimal Code iii) Assembly Code iv) Fortran / C etc. v) Python</description>
+    </item>
+    
     <item>
       <title>AI and Future</title>
       <link>https://amitpress.github.io/recallbook/posts/aiandfuture/</link>
